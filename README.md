@@ -13,7 +13,7 @@
 
 `conda activate causalnex`
 
-4. Install `graphviz` by following the instructions [here](https://pygraphviz.github.io/documentation/stable/install.html)
+4. Install the base `graphviz` library by following the instructions [here](https://pygraphviz.github.io/documentation/stable/install.html)
 
 5. Use conda to install `pygraphviz`, rather than pip
 
